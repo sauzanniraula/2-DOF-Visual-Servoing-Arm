@@ -40,7 +40,7 @@ Install the required libraries using the requirements.txt file:
 pip install -r requirements.txt
 
 🚀 How to Run
-Clone this Repository: git clone https://github.com/2-DOF Visual Servoing Robotic Arm/2-DOF-Visual-Servoing-Arm.git
+Clone this Repository: git clone https://github.com/2-DOF-Visual-Servoing-Arm.git
 
 Upload Arduino Code:
 
